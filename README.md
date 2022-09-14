@@ -1,6 +1,6 @@
 # World
 
-![](https://img.shields.io/badge/Alienrazor-Alienrazor-orange?style=for-the-badge&logo=python.svg) 
+![](https://img.shields.io/badge/World-orange?style=for-the-badge&logo=python.svg) 
 <p align="center">
 
 <p align="center">
@@ -50,5 +50,4 @@ python2 world.py
 
 
 <p align="center">
-
 <a href="https://github.com/Alienrazor"><img title="Author" src="https://img.shields.io/badge/Author-Alienrazor-red.svg?style=for-the-badge&logo=github"></a>
